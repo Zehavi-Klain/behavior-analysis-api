@@ -1,10 +1,6 @@
 # 🧠 Behavior Analysis System
 The full system is private. This repository showcases key parts of the implementation.
 
-## 🚀 Live Demo
-
-🔗 https://behavioranalystproject-1.onrender.com/home
-
 ---
 
 ## 📌 Overview
